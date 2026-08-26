@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|c:\\users\\client\\documents\\github\\atividade-web-nicolas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7034825D-6256-1AE7-0772-C54AC480EC8E}|AppWebExemplo.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Configs\\Conexao.cs",
               "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\Configs\\Conexao.cs",
               "RelativeToolTip": "Configs\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-24T14:57:31.186Z",
               "IsPinned": true,
@@ -56,20 +56,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\Components\\Pages\\Processo\\Index.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Processo\\Index.razor",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\Components\\Pages\\Processo\\Index.razor*",
-              "RelativeToolTip": "Components\\Pages\\Processo\\Index.razor*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\Components\\Pages\\Processo\\Index.razor",
+              "RelativeToolTip": "Components\\Pages\\Processo\\Index.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-26T12:22:24.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -82,20 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ProcessoDAO.cs",
               "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\DAO\\ProcessoDAO.cs",
               "RelativeDocumentMoniker": "DAO\\ProcessoDAO.cs",
               "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\DAO\\ProcessoDAO.cs",
               "RelativeToolTip": "DAO\\ProcessoDAO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T12:18:22.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -108,20 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-24T14:35:48.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\atividade-web-nicolas\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
